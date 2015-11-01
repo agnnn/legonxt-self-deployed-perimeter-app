@@ -1,0 +1,1 @@
+The goal of this project is to use LEGO Mindstorms NXT robots to develop a sensor network application that self-deploys in an area, performs perimeter monitoring and alerts when an intruder is detected.
